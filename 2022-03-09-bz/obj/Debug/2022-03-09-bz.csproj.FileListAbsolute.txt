@@ -1,0 +1,10 @@
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\2022-03-09-bz.csproj.AssemblyReference.cache
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\_2022_03_09_bz.Form1.resources
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\_2022_03_09_bz.Properties.Resources.resources
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\2022-03-09-bz.csproj.GenerateResource.cache
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\2022-03-09-bz.csproj.CoreCompileInputs.cache
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\bin\Debug\2022-03-09-bz.exe.config
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\bin\Debug\2022-03-09-bz.exe
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\bin\Debug\2022-03-09-bz.pdb
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\2022-03-09-bz.exe
+D:\_Szoftverfejlesztés\2022-03-09 - C#\2022-03-09-bz\2022-03-09-bz\obj\Debug\2022-03-09-bz.pdb

@@ -1,0 +1,2 @@
+Alma,452,1200,Törékeny
+Körte,289,11000,NEM törékeny
